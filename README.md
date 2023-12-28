@@ -4,4 +4,4 @@ E sim! ela só faz o parser mesmo. O objetivo de utilizar parsel foi comparar co
 
 
 
-<img src = "Brasileirao/imghead.png">
+<img src = "/imghead.png">
